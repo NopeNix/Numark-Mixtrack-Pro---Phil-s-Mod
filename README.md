@@ -1,4 +1,9 @@
-# Numark Mixtrack Pro - Phil's Mod (for Traktor)
+# THIS REPO IS OBSOLETE!!!
+This project has been developped further and moved over to Sender Kollektiv check it out here: [Sender-Kollektiv/Numark-Mixtrack-Pro---Sender-Mod](https://github.com/Sender-Kollektiv/Numark-Mixtrack-Pro---Sender-Mod)<br><br><br><br><br>
+
+------------------
+
+## Numark Mixtrack Pro - Phil's Mod (for Traktor)
 This Repo contains a modification for the Mixtrack Pro by Numark. The Controller Layout has been modified as well as the original Mapping file for Traktor. The new Layout is a beginner's Layout.
 
 ## Install instructions
@@ -12,4 +17,5 @@ This Repo contains a modification for the Mixtrack Pro by Numark. The Controller
    - Select the file "Traktor Mapping File.tsi"
    - Make sure your controller is selected
    - Click "Close"
-4. Should work now, Have fun!
+4. Should work now, Have fun!~~
+~~
